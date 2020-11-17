@@ -1,9 +1,8 @@
-[dude]: https://media1.tenor.com/images/3ff48d70fce560b50c508c0a9dbd1dfb/tenor.gif?itemid=10950458
-
+![dude](https://media1.tenor.com/images/3ff48d70fce560b50c508c0a9dbd1dfb/tenor.gif?itemid=10950458)
 *****
 
 
-### What's up, dudes?! 👋
+### What's up, dudes?
 
 
 - 🔭 I’m currently working on JavaScript, React
