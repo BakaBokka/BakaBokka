@@ -5,15 +5,17 @@
 ### Aaaahhhrrrggh!
 
 
-- 🔭 I’m currently working on JavaScript, React
-- 🌱 I’m currently learning React, Redux, TypeScript
-- 👯 I’m looking for job
 
 ![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
 ![react](https://img.shields.io/badge/React-maroon?style=for-the-badge&logo=react&labelColor=white)
 
 ![react](https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=webpack&labelColor=white)
 ![react](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&labelColor=white)
+
+
+- 🔭 I’m currently working on JavaScript, React
+- 🌱 I’m currently learning React, Redux, TypeScript
+- 👯 I’m looking for job
 
 
 - 💬 How to reach me:
