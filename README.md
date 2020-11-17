@@ -9,6 +9,13 @@
 - 🌱 I’m currently learning React, Redux, TypeScript
 - 👯 I’m looking for job
 
+![js](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
+![react](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+
+![react](https://img.shields.io/badge/Webpack-090909?style=for-the-badge&logo=webpack)
+![react](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+
+
 - 💬 How to reach me:
 * Telegram: @BakaBokka
 * Linkedin: https://www.linkedin.com/in/damirvakhitov
