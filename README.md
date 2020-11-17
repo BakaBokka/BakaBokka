@@ -9,11 +9,11 @@
 - 🌱 I’m currently learning React, Redux, TypeScript
 - 👯 I’m looking for job
 
-![js](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript)
-![react](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
+![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
+![react](https://img.shields.io/badge/React-maroon?style=for-the-badge&logo=react&labelColor=white)
 
-![react](https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=webpack)
-![react](https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git)
+![react](https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=webpack&labelColor=white)
+![react](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&labelColor=white)
 
 
 - 💬 How to reach me:
