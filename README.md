@@ -2,7 +2,7 @@
 *****
 
 
-### Aaaahhhrrrggh!
+### **Aaaahhhrrrggh!**
 
 
 ![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
@@ -18,10 +18,11 @@
 - 👯 I’m looking for **job**...
 
 
-### **Reach me:**
+### **Reach me**
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&labelColor=white)](https://tlgg.ru/BakaBokka)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=white&logoColor=blue)]( https://www.linkedin.com/in/damirvakhitov)
 
 email: damirvakhitov@gmail.com
 
+*****
