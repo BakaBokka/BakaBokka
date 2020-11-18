@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on JavaScript, React
 - 🌱 I’m currently learning React, Redux, TypeScript
-- 👯 I’m looking for job
+- 👯 I’m looking for **job**...
 
 
 ### **Reach me:**
@@ -23,5 +23,5 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&labelColor=white)](https://tlgg.ru/BakaBokka)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=white&logoColor=blue)]( https://www.linkedin.com/in/damirvakhitov)
 
-e-mail: damirvakhitov@gmail.com
+email: damirvakhitov@gmail.com
 
