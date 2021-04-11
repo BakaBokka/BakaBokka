@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on JavaScript, React
 - 🌱 I’m currently learning React, Redux, TypeScript
-- 👯 I’m looking for **job**...
+
 
 
 ### **Reach me**
