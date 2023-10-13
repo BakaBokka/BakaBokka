@@ -13,8 +13,8 @@
 ![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&labelColor=white)
 
 
-- 🔭 I’m currently working on JavaScript, React
-- 🌱 I’m currently learning React, Redux, TypeScript
+- 🔭 I’m currently working on JavaScript, React, Redux
+- 🌱 I’m currently learning, TypeScript
 
 
 
