@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on JavaScript, React, Redux
-- 🌱 I’m currently learning, TypeScript
+- 🌱 I’m currently learning TypeScript
 
 
 
